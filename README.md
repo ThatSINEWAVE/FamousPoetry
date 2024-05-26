@@ -6,6 +6,8 @@ Welcome to FamousPoetry! This project allows users to read famous poetry from va
 FamousPoetry is a simple web application that fetches random poems from an external API ([PoetryDB](https://poetrydb.org/)) and displays them to the user.
 It provides a minimalist interface for an enjoyable reading experience.
 
+![FamousPoetry](https://github.com/ThatSINEWAVE/FamousPoetry/assets/133239148/9a3a863d-ee80-46e3-a4f0-5b28f1835551)
+
 </div>
 
 ## Features
